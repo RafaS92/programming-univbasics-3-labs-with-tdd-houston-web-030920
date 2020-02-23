@@ -1,2 +1,3 @@
 first_number = 45.38
 second_number = 5
+sum = first_number + second_number
