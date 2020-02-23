@@ -1,4 +1,1 @@
-def first_number
-  
-  
-end
+firs_number = 45.38
